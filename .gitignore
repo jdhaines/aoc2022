@@ -1,6 +1,7 @@
-
 *.spec.js
 node_modules
 /2/main.js
 /2/types.js
 .idea/codeStyles/Project.xml
+/3/main.js
+/3/types.js
